@@ -15,6 +15,8 @@ I focus on performance, encryption, and scalable backend systems.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Pawn](https://img.shields.io/badge/Pawn-blue?logo=codeforces&logoColor=white)
+
 
 ---
 
