@@ -1,4 +1,8 @@
 ### Hi 👋, I'm Wilfredo.W (A.K.A BlankPage)
+![Pawno Developer](https://img.shields.io/badge/Pawno-Developer-blue?style=flat&logo=codeforces&logoColor=white)
+![SA-MP Scripting](https://img.shields.io/badge/SA--MP-Scripting-orange?style=flat&logo=gamepad&logoColor=white)
+![Ex-Server Dev](https://img.shields.io/badge/Ex--Server-Dev-critical?style=flat&logo=terminal&logoColor=white)
+
 
 I’m a Full-Stack Developer and Security-Oriented System Designer.  
 Currently building **OrcaleDesk**, a high-security, modular desktop platform for schools.  
