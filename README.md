@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Wilfredo.W (A.K.A BlankPage)
 
 I'm a Self-taught Developer and Security-Oriented System Designer.  
-Currently building **OrcaleDesk**, a high-security, modular desktop platform for schools.  
+Currently building **OrcaleDesk**, modular desktop platform for schools.  
 I focus on performance, encryption, and scalable backend systems.
 
 ---
