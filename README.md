@@ -45,8 +45,8 @@ I focus on performance, and scalable backend systems.
 ---
 ### 🚧 Currently Working On
 
-- **OrcaleDesk** — Secure multi-tenant desktop app for schools *(Security Experimental)*
-- **Enchord Protocol** — Custom encryption protocol *(Archived)*  
+- **OrcaleDesk** — Secure multi-tenant desktop app for schools *(Zero-Trust Backend Architecture Experimental)*
+- **Enchord** — Custom end-to-end encryption protocol *(has been Deleted)*  
 - Experimental tools & system-level optimizations
 
 ---
