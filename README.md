@@ -28,6 +28,7 @@ I focus on performance, and scalable backend systems.
 
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![GitHub-CoPilot](https://img.shields.io/badge/CoPilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 ---
 ### 🔍 Learning / Experimenting With
