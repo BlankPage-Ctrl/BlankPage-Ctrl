@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Wilfredo.W (A.K.A BlankPage)
 
 I'm a Self-taught Developer and Security-Oriented System Designer.  
-Currently building **Cetalyx**, modular desktop platform(Windows/Linux) for schools.  
+Currently building **OrcaleDesk**, modular desktop platform(Windows/Linux) for schools.  
 I focus on performance, and scalable backend systems.
 
 ---
